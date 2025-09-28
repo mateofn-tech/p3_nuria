@@ -1,0 +1,21 @@
+import processing.pdf.*;
+void setup(){
+size(428*2,291*2,PDF,"p3_orla_nuria.pdf"); 
+}
+void draw(){
+  background(255);
+  hugo(0,0);
+  patri(100,0);
+  nuria(200,0);
+  magda(300,0);
+  bea(400,0);
+  lucas(500,0);
+  geraldine(600,0);
+  borja(700,0);
+  alba(0,200);
+  virtu(100,200);
+  aitana(200,200);
+  gala(300,200);
+  calin(400,200);
+  exit();
+}
