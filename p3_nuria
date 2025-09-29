@@ -17,5 +17,6 @@ void draw(){
   aitana(200,200);
   gala(300,200);
   calin(400,200);
+  sara(500,200);
   exit();
 }
